@@ -1,5 +1,5 @@
 #app-mount {
-  background: url("https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/assets/wallpapers/light-theme-1440.png") center/cover no-repeat;
+  background: url("https://media.discordapp.net/attachments/1413351094473719852/1423469058950565989/63757-NieR-Replicant-HD-Wallpaper.png?ex=68e06c5e&is=68df1ade&hm=a9ea362471a38ed01dfa24d848bd11f7062cdc2e8cf48bbf5242e7951b0e7269&=&format=webp&quality=lossless&width=2112&height=1188") center/cover no-repeat;
 }
 
 @media screen and (orientation: portrait) {
@@ -50,3 +50,4 @@
 code.inline {
   color: var(--color-high);
 }
+
