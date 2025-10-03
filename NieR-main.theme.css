@@ -757,6 +757,7 @@ label,
 .outer_c0bea0 .channelTextArea__74017 {
   background: var(--color-high);
   border-radius: 0;
+  color: #000000;
 }
 .outer_c0bea0 .username__24502,
 .outer_c0bea0 .container_d1d9f3,
@@ -930,6 +931,7 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d {
 
 .visual-refresh .channelTextArea_f75fb0 {
   background: var(--color-high);
+  color: #000000;
 }
 
 .form_f75fb0,
@@ -958,10 +960,12 @@ html:not(.visual-refresh-chat-input) .inputInner_b1f01d {
   border-radius: 0;
   margin-left: 21px;
   box-shadow: -3px 0 0 var(--color-low), -9px 0 0 var(--color-high), -21px 0 0 var(--color-low), -18px 3px 0 var(--color-mid), 3px 3px 0 var(--color-mid);
+  color: #000000;
 }
 
 .channelTextArea__74017:focus-within {
   border-color: transparent;
+  color: #000000;
 }
 
 .cooldownWrapper_b21699 {
@@ -2958,4 +2962,5 @@ html {
   --primary-900-hsl: var(--color-high);
   --background-code: rgba(87, 84, 74, 0.6) !important;
 }
+
 
